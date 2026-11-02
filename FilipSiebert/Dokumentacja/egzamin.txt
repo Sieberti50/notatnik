@@ -1,0 +1,4 @@
+System operacyjny: Windows 10 
+Środowiska programistyczne: Visual Studio (aplikacja konsolowa), Android Studio (aplikacja mobilna)
+Emulator aplikacji mobilnej: Android Emulator, Pixel 5 API 30 
+Języki programowania: C# (aplikacja konsolowa), Java i XML 
